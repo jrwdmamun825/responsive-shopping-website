@@ -5,3 +5,6 @@ body {
 .color-highlight {
     color: #ca8a11;
 }
+p {
+    font-size: 13px;
+}
